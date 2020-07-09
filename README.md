@@ -1,6 +1,10 @@
 # Rich Ramalho
 
-⭐ Oi, meu nome é Rich Ramalho, sou estudante do curso de Ciência da Computação na UFCG. E sou pesquisador/desenvolvedor no LSI-UFCG - Laboratório de Sistemas de Informação.
+⭐ Hi, my name is Rich Ramalho, I am a student in the Computer Science course at UFCG.
+
+:rocket: I am a researcher/developer at LSI-UFCG - Laboratory of Information Systems.
+
+::books: I have experience with machine learning and natural language processing.
 
 ## Redes sociais:
 
