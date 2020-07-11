@@ -4,7 +4,9 @@
 
 :rocket: I am a researcher/developer at LSI-UFCG - Laboratory of Information Systems.
 
-::books: I have experience with machine learning and natural language processing.
+:books: I participated in a research project in the field of machine learning and natural language processing with Python.
+
+:computer: I currently participate in a project where I work with web development using SpringBoot, ReactJS and Clojure.
 
 ## Social networks:
 
