@@ -1,18 +1,19 @@
-# Rich Ramalho
+<h1 align="center">Hi 👋, I'm Rich Ramalho</h1>
+<h3 align="center">Hi, my name is Rich Ramalho, I am a student in the Computer Science course at UFCG.</h3>
 
-⭐ Hi, my name is Rich Ramalho, I am a student in the Computer Science course at UFCG.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickecr" alt="rickecr" /> </p>
 
-:rocket: I am a researcher/developer at LSI-UFCG - Laboratory of Information Systems.
+- 🔭 I’m currently working on **LSI-UFCG - Laboratory of Information Systems.**
 
-:books: I participated in a research project in the field of machine learning and natural language processing with Python.
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rickecr&show_icons=true" alt="rickecr" /> </p>
 
-:computer: I currently participate in a project where I work with web development using SpringBoot, ReactJS and Clojure.
-
-## Social networks:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rich-ramalho/)](http://www.linkedin.com/in/rich-ramalho/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/rickzinho_ecr)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.ramalho@ccc.ufcg.edu.br)](mailto:rich.ramalho@ccc.ufcg.edu.br)
-
-
-<!-- Repositório para testar a nova funcionalidade do GitHub: https://dev.to/web/design-github-profile-using-readme-md-8al -->
+<p align="center">
+<a href="https://dev.to/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rickecr" height="20" width="20" /></a>
+<a href="https://twitter.com/rickzinho_ecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rickzinho_ecr" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/rich-ramalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rich-ramalho" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/rick-elton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rick-elton" height="20" width="20" /></a>
+<a href="https://codesandbox.com/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rickecr" height="20" width="20" /></a>
+<a href="https://fb.com/rich.ramalho.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rich.ramalho.9" height="20" width="20" /></a>
+<a href="https://instagram.com/rickelton.py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rickelton.py" height="20" width="20" /></a>
+<a href="https://medium.com/@rickramalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rickramalho" height="20" width="20" /></a>
+</p>
