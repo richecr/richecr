@@ -35,9 +35,9 @@ skills = {
 <a href="https://dev.to/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rickecr" height="20" width="20" /></a>
 <a href="https://twitter.com/rickzinho_ecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rickzinho_ecr" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/rich-ramalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rich-ramalho" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/rick-elton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rick-elton" height="20" width="20" /></a>
-<a href="https://codesandbox.com/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rickecr" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13995829/rich-elton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rich-elton" height="20" width="20" /></a>
+<a href="https://codesandbox.io/u/richecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="richecr" height="20" width="20" /></a>
 <a href="https://fb.com/rich.ramalho.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rich.ramalho.9" height="20" width="20" /></a>
-<a href="https://instagram.com/rickelton.py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rickelton.py" height="20" width="20" /></a>
+<a href="https://www.instagram.com/richecr.py/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="richecr.py" height="20" width="20" /></a>
 <a href="https://medium.com/@rickramalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rickramalho" height="20" width="20" /></a>
 </p>
