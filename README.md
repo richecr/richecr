@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **LSI-UFCG - Laboratory of Information Systems.**
 
-```python
+- :seedling: Eu tenho interesse em Desenvolvimento Web, Machine Learning.
+
+```python3
 skills = {
     "languages": ["Python", "JavaScript", "Java", "Clojure"],
     "tools": ["ReactJS", "NodeJS", "Spring Boot", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"],
