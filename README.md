@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rich Ramalho</h1>
-<h3 align="center">Hi, my name is Rich Ramalho, I am a student in the Computer Science course at UFCG.</h3>
+
+- :books: I'm a student in the Computer Science course at UFCG.
 
 - 🔭 I’m currently working on **LSI-UFCG - Laboratory of Information Systems.**
 
