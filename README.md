@@ -7,11 +7,25 @@
 - :seedling: I'm interested in Web Development, Machine Learning.
 
 ```python3
-skills = {
-    "languages": ["Python", "JavaScript", "Java", "Clojure"],
-    "tools": ["ReactJS", "NodeJS", "Spring Boot", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"],
-    "interested_in": ["Web", "Deep Learning", "Machine Learning", "NLP", "Bot", "Geoparsing"]
-}
+class Dev:
+    def __init__(self, name, github, linkedin, languages, tools, interested_in, hobby):
+        self.name = name
+        self.github = github
+        self.linkedin = linkedin
+        self.languages = languages
+        self.tools = tools
+        self.interested_in = interested_in
+        self.hobby = hobby
+
+name = "Rich Elton"
+github = "https://github.com/richecr"
+linkedin = "https://www.linkedin.com/in/rich-ramalho/"
+languages = ["Python", "JavaScript", "Java", "Clojure"]
+tools = ["ReactJS", "NodeJS", "Spring Boot", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
+interested_in = ["Web", "Deep Learning", "Machine Learning", "NLP", "Bot", "Geoparsing", "Web Crawler"]
+hobby = ["Games", "Football", "Animes"]
+
+i_am = Dev(name, github, linkedin, languages, tools, interested_in, hobby)
 ```
 
 <p align="center">
