@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rich Ramalho</h1>
 
-- :books: I'm a student in the Computer Science course at UFCG.
+- :books: I am a student of the 9th period of the Computer Science course at UFCG.
 
 - 🔭 I’m currently working on **LSI-UFCG - Laboratory of Information Systems.**
 
-- :seedling: I'm interested in Web Development, Machine Learning.
+- :seedling: I like to study everything that involves programming, mainly web development, software engineering and machine learning.
 
 ```python3
 class Dev:
