@@ -40,7 +40,7 @@ i_am = Dev(name, github, linkedin, languages, tools, interested_in, hobby)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=darkgreen)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=richecr&show_icons=true" alt="rickecr" />
+    <img src="https://github-readme-stats.vercel.app/api?username=richramalho&show_icons=true" alt="richramalho" />
 </p>
 
 <p align="center">
