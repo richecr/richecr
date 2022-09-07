@@ -18,7 +18,7 @@ class Dev:
         self.hobby = hobby
 
 name = "Rich Elton"
-github = "https://github.com/richecr"
+github = "https://github.com/richramalho"
 linkedin = "https://www.linkedin.com/in/rich-ramalho/"
 languages = ["Python", "JavaScript", "Java", "Clojure"]
 tools = ["ReactJS", "NodeJS", "Spring Boot", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
