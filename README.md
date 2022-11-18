@@ -40,11 +40,11 @@ i_am = Dev(name, github, linkedin, languages, tools, interested_in, hobby)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=darkgreen)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=richramalho&show_icons=true" alt="richramalho" />
+    <img src="https://github-readme-stats.vercel.app/api?username=richecr&show_icons=true" alt="richecr" />
 </p>
 
 <p align="center">
-<a href="https://dev.to/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rickecr" height="20" width="20" /></a>
+<a href="https://dev.to/rickecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="richecr" height="20" width="20" /></a>
 <a href="https://twitter.com/rickzinho_ecr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rickzinho_ecr" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/rich-ramalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rich-ramalho" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13995829/rich-elton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rich-elton" height="20" width="20" /></a>
