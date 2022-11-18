@@ -20,8 +20,8 @@ class Dev:
 name = "Rich Elton"
 github = "https://github.com/richramalho"
 linkedin = "https://www.linkedin.com/in/rich-ramalho/"
-languages = ["Python", "JavaScript", "Java", "Clojure"]
-tools = ["ReactJS", "NodeJS", "Spring Boot", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
+languages = ["Python", "JavaScript", "Java", "Clojure", "Kotlin"]
+tools = ["ReactJS", "NodeJS", "Spring Boot", "AWS SQS/SNS", "Kafka", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
 interested_in = ["Web", "Deep Learning", "Machine Learning", "NLP", "Bot", "Geoparsing", "Web Crawler"]
 hobby = ["Games", "Football", "Animes"]
 
