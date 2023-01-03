@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rich Ramalho</h1>
 
-- :books: I am a student of the last period of the Computer Science course at UFCG.
+- :books: I am a graduate of the Computer Science course at UFCG.
 
 - 🔭 I’m currently working on **OLX Brasil**
 
@@ -17,13 +17,13 @@ class Dev:
         self.interested_in = interested_in
         self.hobby = hobby
 
-name = "Rich Elton"
-github = "https://github.com/richramalho"
+name = "Rich Ramalho"
+github = "https://github.com/richecr"
 linkedin = "https://www.linkedin.com/in/rich-ramalho/"
-languages = ["Python", "JavaScript", "Java", "Clojure", "Kotlin"]
-tools = ["ReactJS", "NodeJS", "Spring Boot", "AWS SQS/SNS", "Kafka", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
-interested_in = ["Web", "Deep Learning", "Machine Learning", "NLP", "Bot", "Geoparsing", "Web Crawler"]
-hobby = ["Games", "Football", "Animes"]
+languages = ["JavaScript/TypeScript", "Python", "Java", "Clojure", "Kotlin"]
+tools = ["NodeJS", "Spring Boot", "ReactJS", "AWS SQS/SNS/RDS", "Kafka", "Docker", "Sklearn", "Pandas", "NLTK", "SpaCy", "Gensim", "BeautifulSoup"]
+interested_in = ["Web", "Hexagonal Architecture", "Design Patterns", "Deep Learning", "Machine Learning", "NLP", "Bot", "Geoparsing", "Web Crawler"]
+hobby = ["E-Sports", "Games", "Football", "Animes"]
 
 i_am = Dev(name, github, linkedin, languages, tools, interested_in, hobby)
 ```
