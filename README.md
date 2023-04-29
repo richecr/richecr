@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I am a graduate of the Computer Science course at UFCG.<br>🔭 I'm currently working as a Software Engineer at OLX Brazil<br>🌱 I like to study everything that involves programming, mainly web development, functional programming, software engineering and machine learning.
+🔭 I'm currently working as a Software Engineer at OLX Brazil<br>📚 I am a graduate of the Computer Science course at UFCG.<br>🌱 I like to study everything that involves programming, mainly web development, functional programming, software engineering and machine learning.
 
 
 ## 🌐 Socials:
