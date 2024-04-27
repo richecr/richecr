@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working as a Software Engineer II at @[olxbr](https://www.olx.com.br/)<br>📚 I am a graduate of the [Computer Science course at UFCG](https://www.computacao.ufcg.edu.br/p%C3%A1gina-principal).<br>📚 I'm doing an MBA in Full Cycle Architecture.<br>🌱 I like to study everything that involves programming, mainly web development, functional programming, software engineering and machine learning.<br>
 
+# My Page
+- https://richecr.github.io/richecr-portofolio/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rich-ramalho) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Richecr#6035) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/richecr.py)
