@@ -91,7 +91,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=richecr&&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&show=prs_merged,prs_merged_percentage&count_private=true&orgs=olxbr&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![](https://github-readme-stats.vercel.app/api?username=richecr&&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&show=prs_merged,prs_merged_percentage&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
 <br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richecr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
